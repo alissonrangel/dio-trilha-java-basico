@@ -3,6 +3,7 @@
 ### Author: Alisson Rangel [@alissonrangel](https://github.com/alissonrangel)
 
 ### Decisões de projeto
+- java version "20.0.2" 2023-07-18
 - Uso da classe Scanner como pedido no desafio;
 - Para capturar o nome do cliente, que pode ser composto, eu utilizei o método:
 ```
