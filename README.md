@@ -8,7 +8,7 @@
 ```
 scanner.nextLine();
 ```
-Obs.: Mas para utilizar o método nextLine() tive que colocar um outro scanner.nextLine() antes da chamada do primeiro, para limpar o Scanner e não saltar a linha de captura de dados com scanner.nextLine();
+Obs.: Mas para utilizar o método nextLine() tive que colocar um outro scanner.nextLine(), para limpar o Scanner e não saltar a linha de captura de dados com scanner.nextLine();
 
 ```
 //outras capturas com scanner
